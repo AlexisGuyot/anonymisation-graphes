@@ -1,5 +1,5 @@
 # Anonymisation et compression de graphes
-Restitutions des connaissances acquises sur l'anonymisation de graphes dans le cadre du module d'initiation à la recherche (50h) du master 2 informatique Bases de Données et Intelligence Artificielle de Dijon.
+Restitution des connaissances acquises sur l'anonymisation de graphes dans le cadre du module d'initiation à la recherche (50h) du master 2 informatique Bases de Données et Intelligence Artificielle de Dijon.
 
 L'objectif du module était d'étudier un corpus d'articles scientifiques portant sur la thématique de l'anonymisation de graphes, puis de restituer les connaissances acquises à l'écrit (rédaction d'une synthèse) et à l'oral (présentations orales).
 
